@@ -6,7 +6,7 @@
   <link href="https://makabakae.github.io/atom.xml" rel="self"/>
   
   <link href="https://makabakae.github.io/"/>
-  <updated>2022-05-15T14:13:01.903Z</updated>
+  <updated>2022-05-22T09:24:34.711Z</updated>
   <id>https://makabakae.github.io/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://makabakae.github.io/2022/05/09/Day-one/"/>
     <id>https://makabakae.github.io/2022/05/09/Day-one/</id>
     <published>2022-05-09T14:00:32.000Z</published>
-    <updated>2022-05-15T14:13:01.903Z</updated>
+    <updated>2022-05-22T09:24:34.711Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">            <i class="fa fa-quote-left"></i>            <p>趁开会间隙整了个基于GitHub Pages的博客耍耍，也算是打造个人风的第一步。</p><p>具体也不知道第一篇博文要写什么，就当个纪念吧。</p><p>从此踏上熟悉GitHub之路~</p>            <i class="fa fa-quote-right"></i>          </blockquote>]]></content>
+    <content type="html"><![CDATA[<p>趁开会间隙整了个基于GitHub Pages的博客耍耍，也算是打造个人风的第一步。</p><p>具体也不知道第一篇博文要写什么，就当个纪念吧。</p><p>从此踏上熟悉GitHub之路~</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
-            &lt;i class=&quot;fa fa-quote-left&quot;&gt;&lt;/i&gt;
-            &lt;p&gt;趁开会间隙整了个基于GitHub Pages的博客耍耍，也算是打造个人风的第一步。</summary>
+    <summary type="html">&lt;p&gt;趁开会间隙整了个基于GitHub Pages的博客耍耍，也算是打造个人风的第一步。&lt;/p&gt;
+&lt;p&gt;具体也不知道第一篇博文要写什么，就当个纪念吧。&lt;/p&gt;
+&lt;p&gt;从此踏上熟悉GitHub之路~&lt;/p&gt;
+</summary>
       
     
     
