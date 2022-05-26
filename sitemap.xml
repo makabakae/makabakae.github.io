@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://makabakae.github.io/2022/05/25/%E5%86%8D%E5%90%AC%E3%80%8A%E4%B8%8D%E8%A6%81%E8%AF%B4%E8%AF%9D%E3%80%8B/</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://makabakae.github.io/Music/index.html</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://makabakae.github.io/2022/05/25/%E4%BB%8A%E6%97%A5%E9%9F%B3%E4%B9%9005-25/</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://makabakae.github.io/Google%20Search%20Console.html</loc>
     
     <lastmod>2022-05-25</lastmod>
@@ -48,15 +75,6 @@
   
   <url>
     <loc>https://makabakae.github.io/2022/05/24/%E6%9F%90%E4%BA%9B%E9%98%B6%E6%AE%B5%E7%9A%84%E9%9F%B3%E4%B9%90/</loc>
-    
-    <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://makabakae.github.io/Music/index.html</loc>
     
     <lastmod>2022-05-24</lastmod>
     
@@ -130,7 +148,7 @@
 
   <url>
     <loc>https://makabakae.github.io/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,14 +156,14 @@
   
   <url>
     <loc>https://makabakae.github.io/tags/casual/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://makabakae.github.io/tags/Music/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -154,7 +172,7 @@
   
   <url>
     <loc>https://makabakae.github.io/categories/Music/</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
