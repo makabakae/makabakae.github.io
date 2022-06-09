@@ -1231,7 +1231,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #77ff8f;
+  background: #d5ffec;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2772,14 +2772,14 @@ body {
   position: absolute;
 }
 .post {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding: 0px 25px 25px 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 .post-block {
   margin-top: 85px;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   padding: 25px;
 }
 .post-block.page {
